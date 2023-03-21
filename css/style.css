@@ -1,0 +1,30 @@
+/* Created by: Lily
+* Created on: 03/21/2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-05-HTML-Salary
+*/
+
+body {
+	background-color: plum;
+}
+
+h1 {
+	background-color: #e8c8ee;
+	color: hsl(293, 100%, 34%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #c6fbe0;
+}
+
+div {
+  font-weight: bold;
+  color: #ffffff;
+  margin: 5px;
+}
+
+#display-results{
+  background-color: #8e439d;
+}
