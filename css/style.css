@@ -5,26 +5,27 @@
 */
 
 body {
-	background-color: plum;
+  background-color: plum;
 }
 
 h1 {
-	background-color: #e8c8ee;
-	color: hsl(293, 100%, 34%);
-	padding: 40px;
-	text-align: center;
+  background-color: #e8c8ee;
+  color: hsl(293deg 100% 34%);
+  padding: 40px;
+  text-align: center;
 }
 
-p {
-	background-color: #c6fbe0;
+h3 {
+  background-color: #9900AD;
+  color: #fff;
 }
 
 div {
   font-weight: bold;
-  color: #ffffff;
+  color: #fff;
   margin: 5px;
 }
 
 #display-results{
-  background-color: #8e439d;
+  background-color: #8e439d ;
 }
