@@ -11,7 +11,7 @@
 const TAX_BRACKET = 0.1805
 
 /**
- * This function calculates area and perimeter of rectangle.
+ * This function calculates your salary.
  */
 function payClicked () {
   // get user input
